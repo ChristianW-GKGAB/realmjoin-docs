@@ -29,6 +29,7 @@ Please add the following AzureAD roles to the the AppRegistration
 Please grant the following Graph API-Permissions to the AppRegistration
 
 * AuditLog.Read.All
+* Application.ReadWrite.All
 * Device.Read.All
 * DeviceManagementConfiguration.ReadWrite.All
 * DeviceManagementManagedDevices.PrivilegedOperations.All
@@ -38,7 +39,9 @@ Please grant the following Graph API-Permissions to the AppRegistration
 * Group.ReadWrite.All
 * IdentityRiskyUser.ReadWrite.All
 * InformationProtectionPolicy.Read.All
+* Mail.Send
 * Policy.Read.All
+* Reports.Read.All
 * RoleManagement.Read.All
 * Team.Create
 * User.ReadWrite.All
